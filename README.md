@@ -87,8 +87,4 @@ queue-plugin/
 - Hedef eşleştirmesi butonun **birebir metnine** göre yapılır (boşluklar kırpılır). Buton metni ikon/başka öğe içeriyorsa eşleşmeyebilir.
 - Otomatik tıklama araçlarının bazı site veya oyunların kullanım şartlarına aykırı olabileceğini unutmayın; kullanım sorumluluğu size aittir.
 
----
 
-## 📄 Lisans
-
-Dilerseniz buraya bir lisans ekleyin (örn. MIT).
