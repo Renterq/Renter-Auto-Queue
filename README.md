@@ -17,6 +17,8 @@ Bir web sayfasındaki belirli bir butona (varsayılan **"Join Queue"**) sizin ye
 
 ## 📦 Kurulum
 
+### https://addons.mozilla.org/tr/firefox/addon/renter-auto-queue/
+
 ### Yöntem 1 — Geçici yükleme (test için, en hızlı)
 
 > Not: Bu yöntemde eklenti Firefox'u kapatınca kaldırılır. Her açılışta tekrar yüklemeniz gerekir.
